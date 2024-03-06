@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body button{
+    width: 333px;
+    height: 500px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body img{
+    width: 100%;
+    border: 2px solid red;
+}
